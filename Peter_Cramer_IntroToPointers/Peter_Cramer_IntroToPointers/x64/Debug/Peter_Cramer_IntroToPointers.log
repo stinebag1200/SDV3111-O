@@ -1,8 +1,0 @@
-﻿  Account.cpp
-  Checking.cpp
-  main.cpp
-D:\SDV3111-O\Peter_Cramer_IntroToPointers\Peter_Cramer_IntroToPointers\main.cpp(71,64): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
-D:\SDV3111-O\Peter_Cramer_IntroToPointers\Peter_Cramer_IntroToPointers\main.cpp(73,86): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
-D:\SDV3111-O\Peter_Cramer_IntroToPointers\Peter_Cramer_IntroToPointers\main.cpp(74,78): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
-  Generating Code...
-  Peter_Cramer_IntroToPointers.vcxproj -> D:\SDV3111-O\Peter_Cramer_IntroToPointers\x64\Debug\Peter_Cramer_IntroToPointers.exe
